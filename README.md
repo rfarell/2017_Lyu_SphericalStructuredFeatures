@@ -1,4 +1,4 @@
-# Random Features for Large-Scale Kernel Machines (2007 Rahimi & Recht)
+#  Spherical structured feature maps for kernel approximation. In International Conference on Machine Learning (2017 Lyu)
 
 This repository contains a detailed review, summary, and implementation of the Random Fourier Features (RFF) method as introduced by Yueming Lyu in his 2017 paper published in The Proceedings of Machine Learning Research. The original paper is available [here](http://proceedings.mlr.press/v70/lyu17a/lyu17a.pdf).
 
